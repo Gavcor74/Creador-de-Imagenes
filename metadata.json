@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Imágenes Creativas",
+  "description": "Una aplicación para generar imágenes a partir de descripciones de texto utilizando la API de Gemini. El ejemplo inicial crea un meme sobre el aprendizaje de idiomas.",
+  "requestFramePermissions": []
+}
